@@ -175,10 +175,15 @@ body {
 
 .w-100 { width: 100%; }
 
+.pfp{
+
+  width: 400px;
+}
+
 @media only screen and (max-device-width: 480px) { 
   .w-100{
 
-    width: 100%;
+    width: 300px;
 
 
   }
