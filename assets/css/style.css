@@ -181,9 +181,14 @@ body {
 }
 
 @media only screen and (max-device-width: 480px) { 
+  .pfp{
+    width:20rem;
+    margin: auto;
+  }
+  
   .w-100{
 
-    width: 300px;
+    width: 100%;
 
 
   }
