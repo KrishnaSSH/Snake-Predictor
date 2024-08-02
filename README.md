@@ -14,3 +14,7 @@ Towers Predictions: Ascend towers confidently with our reliable predictions, max
 * Open a Ticket in ⁠🎫┃tickets to get access of ⁠👑┃vip channel
 * Utilize commands such as /mines, and /towers to access predictions.
 * Follow the guidance provided and watch your winnings grow.
+
+# ScreenShots
+![](assets/ss1.webp)
+![](assets/ss2.webp)
