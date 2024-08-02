@@ -10,7 +10,7 @@ Towers Predictions: Ascend towers confidently with our reliable predictions, max
 
 # Getting Started
 
-join our discord server [here](https://discord.com/invite/qghx8crHNG)
-Open a Ticket in ⁠🎫┃tickets to get access of ⁠👑┃vip channel
-Utilize commands such as /mines, and /towers to access predictions.
-Follow the guidance provided and watch your winnings grow.
+* join our discord server [here](https://discord.com/invite/qghx8crHNG)
+* Open a Ticket in ⁠🎫┃tickets to get access of ⁠👑┃vip channel
+* Utilize commands such as /mines, and /towers to access predictions.
+* Follow the guidance provided and watch your winnings grow.
